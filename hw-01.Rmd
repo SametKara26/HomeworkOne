@@ -13,40 +13,46 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
 
 **Question 1** With Markdown write a sentence that has one word in bold.
 
-Write Your Answer Here!
+This is **bold**.
 
 **Question 2** With Markdown write a sentence that has one word in italic.
 
-Write Your Answer Here!
+This is *italic*.
 
 **Question 3** With Markdown write a sentence that has one word in italic bold.
 
-Write Your Answer Here!
+This is **_italic bold_**.
 
 **Question 4** With Markdown write an unordered list with three items.
 
-Write Your Answer Here!
+* Egg
+* Bread
+* Milk
 
 **Question 5** With Markdown write an ordered list with three items.
 
-Write Your Answer Here!
+1. Potato
+2. Pepper
+3. Peach
 
 **Question 6** With Markdown give a link to your favorite webpage.
 
-Write Your Answer Here!
+[Youtube](https://www.youtube.com/@Besiktas/videos)
 
 **Question 7** With Markdown add a cat picture.
 
-Write Your Answer Here!
+![Cat Picture](https://png.pngtree.com/png-clipart/20210309/original/pngtree-a-british-short-blue-and-white-cat-png-image_5803762.jpg)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
-Write Your Answer Here!
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
 
 **Question 9** With $LaTeX$ write your favorite equation in block form.
 
-Write Your Answer Here!
+$\pi \approx 3.14159$
 
 **Question 10** In a code chunk calculate 3 + 4.
 
-Write Your Answer Here!
+## 7
